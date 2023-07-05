@@ -1,2 +1,2 @@
 #!/bin/Bash
-ls -al
+.ls -al
